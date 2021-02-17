@@ -1,7 +1,7 @@
 [
 
   {
-    "name": "cga-task-def",
+    "name": "cga-container",
     "imageUri": "995870504272.dkr.ecr.us-east-1.amazonaws.com/cga-web-ecs:latest"
   }
 
