@@ -9,7 +9,7 @@ phases:
       - "echo Build started on `date`"
       - "echo Building docker image"
       - "docker build -t cga-web-ecs ."
-      - "docker tag cga-web-ecs:latest 995870504272.dkr.ecr.us-east-1.amazonaws.com/cga-web-ecs"
+      - "docker tag cga-web-ecs:latest 044222479894.dkr.ecr.us-east-1.amazonaws.com/cga-web-ecs"
   post_build:
     commands:
       - "echo Build is complete on `date`"
