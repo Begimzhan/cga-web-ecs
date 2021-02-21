@@ -1,7 +1,7 @@
 [
 
   {
-    "name": "cga-container",
+    "name": "cga-app-ecs",
     "imageUri": "044222479894.dkr.ecr.us-east-1.amazonaws.com/cga-web-ecs"
   }
 
