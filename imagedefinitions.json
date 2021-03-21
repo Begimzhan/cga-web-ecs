@@ -1,7 +1,7 @@
 [
 
   {
-    "name": "cga-app-demo",
+    "name": "cga-web-demo",
     "imageUri": "44222479894.dkr.ecr.us-west-2.amazonaws.com/cga-web-demo:latest"
   }
 
