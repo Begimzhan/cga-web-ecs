@@ -1,8 +1,8 @@
 [
 
   {
-    "name": "cga-web-demo",
-    "imageUri": "44222479894.dkr.ecr.us-west-2.amazonaws.com/cga-web-demo:latest"
+    "name": "cga-web",
+    "imageUri": "44222479894.dkr.ecr.us-east-1.amazonaws.com/cga-web-ecs:latest"
   }
 
 ]
